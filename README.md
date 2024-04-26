@@ -32,9 +32,9 @@
     <li>
         <h3>AreBee Tecnologia</h3>
         <p>Analista de TI</p>
-        <p>janeiro de 2024 - Presente (4 meses)</p>
+        <p>Janeiro de 2024 - Presente (4 meses)</p>
         <p>Estágio</p>
-        <p>julho de 2023 - dezembro de 2023 (6 meses)</p>
+        <p>Julho de 2023 - Dezembro de 2023 (6 meses)</p>
         <p>Curitiba, Paraná, Brasil</p>
     </li>
     <li>
