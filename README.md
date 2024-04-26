@@ -8,8 +8,10 @@
     </header>
     
 <body>
-<h2>Objetivo</h2>
-<p>Estágio em TI</p>
+    <li>
+        <h2>Objetivo</h2>
+        <p>Estágio em TI</p>
+    </li>
 
  <h2>Formação Acadêmica</h2>
 <ul>
@@ -40,7 +42,7 @@
     <li>
         <h3>Saúde e Vida</h3>
         <p>Vendedor</p>
-        <p>janeiro de 2021 - fevereiro de 2022 (1 ano 2 meses)</p>
+        <p>Janeiro de 2021 - Fevereiro de 2022 (1 ano 2 meses)</p>
         <p>Curitiba, Paraná, Brasil</p>
     </li>
 </ul>
