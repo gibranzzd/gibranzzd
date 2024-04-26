@@ -7,13 +7,11 @@
         <p>23 anos - Brasileiro - Solteiro</p>
     </header>
     
-    <section>
+    <body>
         <h2>Objetivo</h2>
         <p>Estágio em TI</p>
-    </section>
-
-    <section>
-        <h2>Formação Acadêmica</h2>
+        
+         <h2>Formação Acadêmica</h2>
         <ul>
             <li>
                 <h3>Graduação em Gastronomia</h3>
@@ -24,17 +22,11 @@
                 <p>UNIFATECPR – UNIVERSIDADE TECNOLÓGICA DE CURITIBA - Período: 2022 – 2026</p>
             </li>
         </ul>
-    </section>
-
-    <section>
-        <h2>Idiomas</h2>
+            <h2>Idiomas</h2>
         <ul>
             <li>Inglês – Avançado</li>
             <p>Curso de Inglês INFLUX / Período: 2017 – 2019 - Carga Horária: 160 horas</p>
         </ul>
-    </section>
-
-    <section>
         <h2>Experiências Profissionais</h2>
         <ul>
             <li>
@@ -52,16 +44,10 @@
                 <p>Curitiba, Paraná, Brasil</p>
             </li>
         </ul>
-    </section>
-
-    <section>
         <h2>Formação Complementar</h2>
         <ul>
             <li>Fundamentos da programação, funcionamento de computadores, internet e mais. – Rocketseat – 2 horas.</li>
             <li>Atitudes Comportamentais/ Empregabilidade – CIEE – 3 horas.</li>
         </ul>
-    </section>
 </div>
-
 </body>
-</html>
