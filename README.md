@@ -1,9 +1,9 @@
 <div class="container">
     <header>
         <h1>Alisson Dalla Lasta</h1>
-        <p>Rua Expedicionário João Hruba, n° 55 - Umbará - CEP: 81.940 – 433 - Curitiba/PR</p>
-        <p>Fone: (41) 99193-0125</p>
-        <p>E-mail: alissondalla@hotmail.com</p>
+        <p>Desconhecido, n° xinglong - Umbará - CEP: xx.xxx – xxx - Curitiba/PR</p>
+        <p>Fone: (41) xxxxx-xxxx</p>
+        <p>E-mail: xxxxx@hotmail.com</p>
         <p>23 anos - Brasileiro - Solteiro</p>
     </header>
     
