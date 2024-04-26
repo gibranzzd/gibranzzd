@@ -9,8 +9,8 @@
     
 <body>
     <li>
-        <h2>Objetivo</h2>
-        <p>Estágio em TI</p>
+        <h3>Objetivo</h3>
+        <p>Trabalho na área de TI</p>
     </li>
 
  <h2>Formação Acadêmica</h2>
@@ -26,7 +26,9 @@
 </ul>
     <h2>Idiomas</h2>
 <ul>
-    <li>Inglês – Avançado</li>
+    <li>
+        <h3>Inglês – Avançado</h3>
+    </li>
     <p>Curso de Inglês INFLUX / Período: 2017 – 2019 - Carga Horária: 160 horas</p>
 </ul>
 <h2>Experiências Profissionais</h2>
