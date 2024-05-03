@@ -6,7 +6,6 @@
         <p>E-mail: xxxxx@protonmail.com</p>
         <p>19 anos - Brasileiro - Solteiro</p>
     </header>
-    
 <body>
     <li>
         <h3>Objetivo</h3>
