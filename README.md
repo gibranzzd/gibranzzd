@@ -49,11 +49,11 @@ soluções inovadoras e eficientes na área de tecnologia</p>
 
 <h2>Habilidades e Tecnologias</h2>
 <li>
-GitHub
-Python Intermediário – Pandas, Plotly Express
-HTML Básico
-CSS Básico
-Montagem de Computadores
+<p>GitHub</p>
+<p>Python Intermediário – Pandas, Plotly Express</p>
+<p>HTML Básico</p>
+<p>CSS Básico</p>
+<p>Montagem de Computadores</p>
 </li>
 </ul>
 </body>
