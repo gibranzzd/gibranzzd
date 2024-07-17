@@ -1,7 +1,7 @@
 <div class="container">
     <header>
         <h1>Olá, me chamo Gibran Deon!</h1>
-        <h4>Como me contatar: gibrand@protonmail.com</h4>
+        <h4>Como me contatar: gibrand@protonmail.com <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"> </h4>
     </header>
 <body>
         <h4>Atualmente, busco aplicar minhas habilidades assim como adquirir mais conhecimento para desenvolver
