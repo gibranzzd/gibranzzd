@@ -16,7 +16,7 @@ soluções inovadoras e eficientes na área de tecnologia</p>
   <img align="center" alt="gibran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gibran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gibran-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="gibran-C++" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F46%2F626%2Fpng-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-thumbnail.png&f=1&nofb=1&ipt=022e18ea15416709c4708eec2dea620202988001f0e63e0dbcc0d31a85b28350&ipo=images)">
+  <img align="center" alt="gibran-C++" height="30" width="40" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-thumbnail.png">
 </div>
 <li>
 <p>GitHub</p>
